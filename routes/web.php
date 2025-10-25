@@ -27,7 +27,7 @@ Route::prefix('logbook')->group(function () {
 
     Route::get('/logbook', function () {
         return view('logbook.logbooksection');
-    })->name('logbook.logbooksection');
+    })->name('logbook.logbook');
 });
 
 Route::get('/', function () {
